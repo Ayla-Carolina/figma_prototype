@@ -23,3 +23,11 @@ E ser um modelo de aplicativo, e não apenas um site, traz mais praticidade para
 ![image](https://github.com/Ayla-Carolina/figma_prototype/assets/84017026/46b1aad6-c67f-442e-918b-5413e7e11856)
 
 Ex.: Página "Comunidade" inspirada no Threads!
+
+---------------------------------------------------------------------------------------------------------------------------------------
+No desenvolvimento, uma das etapas mais importantes para um site/aplicativo é pensar no armazenamento das primeiras informações do usuário, no caso será o login e o cadastro. 
+Nessa etapa, foi incluído primeiramente o acesso direto para aqueles que já possuem cadastro e a realização de um para o que estão acessando pela primeira vez. 
+
+![image](https://github.com/Ayla-Carolina/figma_prototype/assets/84017026/5e50a2d9-ea16-4445-9953-a3450646c130)
+
+**Na implementação deverá ser feito o armazenamento das informações de forma segura e atenciosa para que depois de feito o cadastro o usuário consiga acessar diretamente com seu próprio login. 
